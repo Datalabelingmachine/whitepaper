@@ -2,7 +2,6 @@
 
 # Data Labeling Machine (DLM) White Paper v1.0
 
-**Wei Yi, L., Cerb, S., Acosta, A.**  
 **Dec 2023**
 
 ## Abstract
